@@ -17,9 +17,8 @@ By dynamically rotating and abstracting internet protocols, we reduce an attacke
 
 ## Public Announcement: Protocol Rotation Project
 
-```
-This text was first published here: https://zauzanov.medium.com/protocol-rotation-the-next-evolution-of-cyber-defense-51be1eb76822
-```
+###### This text was first published here: https://zauzanov.medium.com/protocol-rotation-the-next-evolution-of-cyber-defense-51be1eb76822
+
 Today, I am officially announcing my cybersecurity project: Protocol Rotation. This statement should be considered a public record of the idea and its development.
 
 ## **Protocol Rotation: Like IP Rotation, But for Protocols**
